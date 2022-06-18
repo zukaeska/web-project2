@@ -1,0 +1,20 @@
+body {
+    background-image: url("./images/background.jpg");
+    background-color: #cccccc;
+    /* Full height */
+    height: 100%;
+
+    background-position-y: -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 500px;
+    width: 400px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
